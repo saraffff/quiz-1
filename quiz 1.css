@@ -1,0 +1,40 @@
+img{ 
+    width: 400px;
+    height: 400px;
+}
+.c1{
+    margin-top: 150px;
+}
+.c2{
+    margin-left: 90px;
+    height: 20px;
+    width: 20px;
+}
+.w1{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.w2{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    margin: -100px;
+}
+h1{
+    font-size: 40px;
+    color: rgba(25, 25, 27, 0.907);
+}
+p{
+color: #C246FF;
+}
+button{
+background-color: #C246FF;
+padding: 10px;
+color: white;
+}
+
+
+.flexible{
+    margin-left: 230px;
+}
